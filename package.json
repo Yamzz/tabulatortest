@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.io/Yamzz/tabulatortest",
   "name": "tabulatortest",
   "version": "0.1.0",
   "private": true,
@@ -7,16 +8,21 @@
     "@types/node": "12.7.5",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
+    "node-sass": "^4.12.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
+    "react-tabulator": "^0.10.3",
     "typescript": "3.6.3"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "homepage": "https://github.io/Yamzz/tabulatortest",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
