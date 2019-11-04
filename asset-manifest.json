@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Yamzz/tabulatortest/static/css/main.aa8c573f.chunk.css",
-    "main.js": "/Yamzz/tabulatortest/static/js/main.fb07e137.chunk.js",
-    "main.js.map": "/Yamzz/tabulatortest/static/js/main.fb07e137.chunk.js.map",
-    "runtime~main.js": "/Yamzz/tabulatortest/static/js/runtime~main.44a61eab.js",
-    "runtime~main.js.map": "/Yamzz/tabulatortest/static/js/runtime~main.44a61eab.js.map",
-    "static/css/2.f7606a2a.chunk.css": "/Yamzz/tabulatortest/static/css/2.f7606a2a.chunk.css",
-    "static/js/2.8165be9a.chunk.js": "/Yamzz/tabulatortest/static/js/2.8165be9a.chunk.js",
-    "static/js/2.8165be9a.chunk.js.map": "/Yamzz/tabulatortest/static/js/2.8165be9a.chunk.js.map",
-    "index.html": "/Yamzz/tabulatortest/index.html",
-    "precache-manifest.868e5a45a08f3f453a0ff32c0d664130.js": "/Yamzz/tabulatortest/precache-manifest.868e5a45a08f3f453a0ff32c0d664130.js",
-    "service-worker.js": "/Yamzz/tabulatortest/service-worker.js",
-    "static/css/2.f7606a2a.chunk.css.map": "/Yamzz/tabulatortest/static/css/2.f7606a2a.chunk.css.map",
-    "static/css/main.aa8c573f.chunk.css.map": "/Yamzz/tabulatortest/static/css/main.aa8c573f.chunk.css.map"
+    "main.css": "/tabulatortest/static/css/main.aa8c573f.chunk.css",
+    "main.js": "/tabulatortest/static/js/main.405c6fb8.chunk.js",
+    "main.js.map": "/tabulatortest/static/js/main.405c6fb8.chunk.js.map",
+    "runtime~main.js": "/tabulatortest/static/js/runtime~main.ef8251a2.js",
+    "runtime~main.js.map": "/tabulatortest/static/js/runtime~main.ef8251a2.js.map",
+    "static/css/2.f7606a2a.chunk.css": "/tabulatortest/static/css/2.f7606a2a.chunk.css",
+    "static/js/2.8165be9a.chunk.js": "/tabulatortest/static/js/2.8165be9a.chunk.js",
+    "static/js/2.8165be9a.chunk.js.map": "/tabulatortest/static/js/2.8165be9a.chunk.js.map",
+    "index.html": "/tabulatortest/index.html",
+    "precache-manifest.d9a9889f039dd0c9fd70d0b394ae112b.js": "/tabulatortest/precache-manifest.d9a9889f039dd0c9fd70d0b394ae112b.js",
+    "service-worker.js": "/tabulatortest/service-worker.js",
+    "static/css/2.f7606a2a.chunk.css.map": "/tabulatortest/static/css/2.f7606a2a.chunk.css.map",
+    "static/css/main.aa8c573f.chunk.css.map": "/tabulatortest/static/css/main.aa8c573f.chunk.css.map"
   }
 }
